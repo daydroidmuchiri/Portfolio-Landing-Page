@@ -11,3 +11,7 @@ img {
 .paragraph1 {
     float: right;
 }
+
+body {
+    background-image: url(../images/art-black-and-white-counter-2341290.jpg);
+}
