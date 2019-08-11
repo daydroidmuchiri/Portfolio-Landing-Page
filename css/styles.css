@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    font-size: 30px;
 }
 
 img {
@@ -8,10 +9,15 @@ img {
     width: auto;
 }
 
-.paragraph1 {
-    float: right;
-}
-
 body {
     background-image: url(../images/art-black-and-white-counter-2341290.jpg);
+    /* background-color: black; */
+    color: rgb(22, 20, 20);
+    font-size: 140%;
+}
+
+.paragraph1 {
+    width: 75%;
+    float: right;
+    background-color: rgba(255, 17, 0, 0.116);
 }
