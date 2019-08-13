@@ -8,30 +8,30 @@
 }
 
 h1 {
-    padding-top: -250px;
+    font-stretch: expanded;
 }
 
 img {
-    /* float: left; */
-    height: 200px;
+    height: 150px;
     width: auto;
-    /* padding-top: 60px; */
     border-radius: 25px;
     padding-right: 70%;
+    padding-left: 40%;
 }
 
 body {
-    background-image: url(../images/art-black-and-white-counter-2341290.jpg);
+    background-image: url(../images/dd.jpg);
     /* background-color: black; */
     color: rgb(22, 20, 20);
+    font-size: 130%;
 }
 
 .paragraph1 {
     height: auto;
-    width: 60%;
+    width: 70%;
     /* float: right; */
     background-color: rgba(255, 17, 0, 0.116);
-    margin-left: 20%;
+    margin-left: 15%;
     padding: 5%;
     border-left: 6px solid red;
     background-color: lightgrey;
