@@ -1,23 +1,35 @@
-h1 {
-    text-align: center;
+.jumbotron {
+    background-color: chartreuse;
     font-size: 30px;
+    text-align: center;
+    border-left: 6px solid red;
+    background-color: lightgrey;
+    border-radius: 25px;
 }
 
 img {
-    float: left;
+    /* float: left; */
     height: 200px;
     width: auto;
+    /* padding-top: 60px; */
+    border-radius: 25px;
+    padding-right: 70%;
 }
 
 body {
     background-image: url(../images/art-black-and-white-counter-2341290.jpg);
     /* background-color: black; */
     color: rgb(22, 20, 20);
-    font-size: 140%;
 }
 
 .paragraph1 {
-    width: 75%;
-    float: right;
+    height: auto;
+    width: 60%;
+    /* float: right; */
     background-color: rgba(255, 17, 0, 0.116);
+    margin-left: 20%;
+    padding: 5%;
+    border-left: 6px solid red;
+    background-color: lightgrey;
+    border-radius: 25px;
 }
