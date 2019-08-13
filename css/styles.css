@@ -16,8 +16,6 @@ img {
     max-width: 100%;
     max-height: 100%;
     border-radius: 25px;
-    /* padding-right: 70%; */
-    padding-left: 40%;
 }
 
 body {
@@ -41,7 +39,7 @@ body {
 }
 
 .picha {
-    height: 100px;
+    height: 150px;
     width: auto;
     text-align: center;
     display: block;
